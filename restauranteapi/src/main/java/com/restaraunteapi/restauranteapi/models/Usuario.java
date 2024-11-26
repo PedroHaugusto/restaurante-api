@@ -6,7 +6,6 @@ import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
 import org.springframework.data.annotation.Id;
 import java.util.Set;
-
 import java.util.UUID;
 
 @Entity(name = "Usuarios")
